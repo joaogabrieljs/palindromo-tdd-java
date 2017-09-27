@@ -4,7 +4,7 @@ Atividade de técnicas avançadas de construção de software, 8º período de E
 
 ## Obtendo o projeto
 
-`git clone https://github.com/joaogabrieljs/leilao-tdd-java`
+`git clone https://github.com/joaogabrieljs/palindromo-tdd-java`
 
 ## Importando a aplicação
 
